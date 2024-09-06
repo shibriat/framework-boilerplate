@@ -36,6 +36,7 @@ Follow these steps to set up the project after cloning it from GitHub:
 
     ```bash
     npm install
+    npm run build
     ```
 
 3. **Environment Configuration**
